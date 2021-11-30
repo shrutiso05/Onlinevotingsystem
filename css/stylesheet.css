@@ -1,0 +1,90 @@
+body{
+    
+    background-color:#eb9e34;
+}
+
+#headerSection{
+    padding: 10px;
+}
+
+#headerSection h1{
+      font-family: Georgia, serif;  
+}
+
+input{
+
+    padding: 10px;
+    border-radius: 5px;
+
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 25%;
+}
+
+#loginbtn{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(17, 17, 9);
+    color: white;
+    font-size: 15px;
+}
+
+#backbtn {   
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(17, 17, 9);
+    color: white;
+    font-size: 15px;
+    float: left ;
+    margin: 10px;
+         }
+
+#logoutbtn {
+            padding: 10px;
+            border-radius: 5px;
+            background-color: rgb(17, 17, 9);
+            color: white;
+            font-size: 15px;
+            float: right;
+            margin: 10px;
+         }
+
+#Profile{
+
+        background-color: white;
+        width: 20%;
+        padding: 20px;
+        height: 47%;
+        float: left;
+
+}
+
+#Group {
+        background-color: white;
+        width: 60%;
+        padding: 10px;
+        height: 50%;
+        float: right;
+
+    }
+#votebtn {
+        padding: 10px;
+        border-radius: 5px;
+        background-color: rgb(17, 17, 9);
+        color: white;
+        font-size: 15px;
+}
+
+#mainpanel{
+    padding: 10px;
+}
+
+#voted{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(8, 216, 8);
+    color: white;
+    font-size: 15px;
+}
